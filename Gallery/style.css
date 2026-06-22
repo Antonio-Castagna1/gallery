@@ -1,0 +1,17 @@
+.bi-headphones,
+.bi-mic-fill,
+.bi-vinyl-fill {
+    font-size: 100px;
+}
+
+.bi-headphones {
+    color: rgb(208, 127, 35);
+}
+
+.bi-mic-fill {
+    color: rgb(0, 0, 0);
+}
+
+.bi-vinyl-fill {
+    color: rgb(77, 128, 225);
+}
